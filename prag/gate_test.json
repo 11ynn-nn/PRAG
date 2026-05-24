@@ -1,0 +1,122 @@
+[
+    {
+        "question_id": "5ae356e55542992f92d82297",
+        "question": "Which is a comopany that provides human resources management software, United Continental Holdings or Automatic Data Processing?",
+        "answer": "Automatic Data Processing (ADP) is a company that provides human resources management software. According to the data, ADP is described as \"an American provider of human resources management software and services.\" This aligns with the description of ADP, LLC., which is noted as \"an American provider of human resources management software and services.\"\n\nIn contrast, United Continental Holdings, Inc. (formerly UAL Corporation) is primarily an airline holding company. While it does have subsidiaries and is involved in various business operations, there is no direct mention of it providing human resources management software in the provided data.\n\nTherefore, among the two companies listed, Automatic Data Processing (ADP) is the one that specifically provides human resources management software.",
+        "gate_decision": "Local"
+    },
+    {
+        "question_id": "5ae5ff9a5542996de7b71ad2",
+        "question": "When was the American entrepreneur and venture capitalist born who created the Thiel Fellowship?",
+        "answer": "Peter Thiel, the American entrepreneur, venture capitalist, philanthropist, and political activist who created the Thiel Fellowship, was born on October 11, 1967. Peter Thiel is known for co-founding PayPal and being an early investor in Facebook. He is also the founder of the Thiel Foundation, which established the Thiel Fellowship, an award designed to support young entrepreneurs by providing them with $100,000 over two years to drop out of school and pursue other work.",
+        "gate_decision": "Local"
+    },
+    {
+        "question_id": "5ac3b2a75542995ef918c1fe",
+        "question": "Why does Qutebrowser use DuckDuckGo ?",
+        "answer": "Qutebrowser uses DuckDuckGo as its default search engine. This choice is part of Qutebrowser's philosophy and functionality, reflecting its design as a minimalist yet powerful web browser. According to the information provided, Qutebrowser is a web browser for Linux, Windows, and macOS operating systems, featuring vim-style key bindings and a minimal graphical user interface (GUI). The use of DuckDuckGo as the default search engine aligns with Qutebrowser's goal of providing a clean and efficient browsing experience, while also emphasizing privacy and avoiding the personalized search results that are common with other search engines.\n\nDuckDuckGo is known for its commitment to protecting user privacy and not tracking search history or personal information. By defaulting to DuckDuckGo, Qutebrowser encourages users to benefit from these privacy-focused features. Additionally, Qutebrowser integrates with multiple search engines, including Bing, Yahoo!, Yandex, and Yummly, allowing users to switch to other search providers if desired. This flexibility further enhances the browser's utility and adaptability to different user preferences.",
+        "gate_decision": "Local"
+    },
+    {
+        "question_id": "5ab808935542990e739ec7f3",
+        "question": "In which decade was the Ivel Z3 and the Prológica CP-400 developed in?",
+        "answer": "The Ivel Z3 and the Prológica CP-400 were both developed in the 1980s. Specifically, the Ivel Z3 is described as an Apple IIe compatible computer developed by Ivasim in the 1980s, and the Prológica CP-400 is noted as a personal computer developed by a Brazilian company, Prológica, in the middle of 1984. Both of these developments reflect the era of rapid technological advancement and the expansion of personal computing into new markets, such as Brazil for the CP-400 and the Apple IIe compatible market for the Ivel Z3.",
+        "gate_decision": "Local"
+    },
+    {
+        "question_id": "5ac4a21b5542996feb3fe926",
+        "question": "Which British commputer scientist developed an algorithm for sorting strings in 1959/1960?",
+        "answer": "The British computer scientist who developed an algorithm for sorting strings in 1959/1960 is Tony Hoare. Specifically, Tony Hoare developed the Quicksort algorithm during this period. Quicksort is an efficient sorting algorithm known for its speed and efficiency compared to other sorting methods like merge sort and heapsort. This development by Tony Hoare has had a significant impact on the field of computer science, influencing numerous algorithms and programming languages. Additionally, Hoare's work extends beyond Quicksort; he also developed Hoare logic, a formal system for verifying program correctness, and the formal language Communicating Sequential Processes (CSP), which has been influential in specifying and analyzing concurrent processes.",
+        "gate_decision": "Local"
+    },
+    {
+        "question_id": "5abe96e15542993f32c2a172",
+        "question": "What is the name for the regulatory body of over 25,000 football clubs in Germany?",
+        "answer": "The regulatory body overseeing over 25,000 football clubs in Germany is the German Football Association (DFB). According to the data provided, the DFB is the governing body of football in Germany, with a large network of clubs under its jurisdiction. Specifically, the DFB has jurisdiction over more than 25,000 clubs with over 6.8 million members, making it the single largest sports federation in the world. Additionally, the DFB oversees the Deutsche Fußball Liga, which organizes the professional Bundesliga and 2. Bundesliga, and has jurisdiction over five regional and 21 state associations that organize the semi-professional and amateur levels of football.\n\nThe DFB Sports Court, a part of the DFB, is responsible for adopting sanctions on clubs and players, further emphasizing the DFB's role in maintaining order and enforcing regulations within the football community. This comprehensive structure ensures that all aspects of football in Germany are regulated and managed effectively, from the professional leagues down to the grassroots level.",
+        "gate_decision": "Local"
+    },
+    {
+        "question_id": "5ae334345542991a06ce9951",
+        "question": "At which stadium does the team, for which Baltimore's Marching Ravens is the official marching band, play its home games?",
+        "answer": "The team for which Baltimore's Marching Ravens is the official marching band plays its home games at M&T Bank Stadium in Baltimore, Maryland. M&T Bank Stadium is the home venue of the Baltimore Ravens, an NFL team. The marching band, Baltimore's Marching Ravens, supports the Baltimore Ravens and performs at their home games at this stadium. This relationship underscores the band's significant role in the local sports community and its deep connection to the city's football heritage.",
+        "gate_decision": "Local"
+    },
+    {
+        "question_id": "5a8e8fc75542990e94052b57",
+        "question": "in the 2003-04 Wolfsburg signed a starlet from River Plate who plays in what position ?",
+        "answer": "In the 2003-04 season, VfL Wolfsburg signed Andrés D'Alessandro from River Plate. Andrés D'Alessandro plays as an attacking midfielder. This signing was significant as D'Alessandro brought experience and star power to the German club, although he had been relatively disappointing in his previous season at River Plate. His role as an attacking midfielder suggests he was a key playmaker and offensive threat for Wolfsburg during that period.",
+        "gate_decision": "Local"
+    },
+    {
+        "question_id": "5a8ba093554299240d9c203f",
+        "question": "The Colts' first ever draft pick was a halfback who won the Heisman Trophy in what year?",
+        "answer": "The Indianapolis Colts' first ever draft pick was Billy Vessels, a halfback who won the Heisman Trophy in 1952 while playing college football at the University of Oklahoma. Billy Vessels was selected by the Colts as their first pick in the 1953 NFL Draft, marking a significant moment in the team's history. This connection to the University of Oklahoma and the Heisman Trophy winner highlights the historical and cultural significance of the Colts in the region.",
+        "gate_decision": "Local"
+    },
+    {
+        "question_id": "5ab285d0554299340b5254fa",
+        "question": "The Acolytes Protection Agency consisted of what wrestler born November 29, 1966",
+        "answer": "The Acolytes Protection Agency (APA) was a professional wrestling tag team that consisted of Bradshaw (John Layfield) and Faarooq (Ron Simmons). Bradshaw, whose real name is John Charles Layfield, was born on November 29, 1966. He is better known by his ring name, John \"Bradshaw\" Layfield (JBL), and has had a significant career in professional wrestling, including being part of the broadcast team on \"SmackDown\" and various pay-per-view events.\n\nFaarooq, whose real name is Ron Simmons, formed the tag team with Bradshaw. Together, they wrestled for the American promotion World Wrestling Federation/Entertainment (WWF/E) from October 1998 to March 2004. During this period, they competed in various tag team matches and contributed to the entertainment and success of the promotion.",
+        "gate_decision": "Local"
+    },
+    {
+        "question_id": "5adeca925542995ec70e8f15",
+        "question": "Which cocktail has the most ingredients, the Godfather or the Vesper?",
+        "answer": "To determine which cocktail has more ingredients, let's examine the composition of both the Godfather and the Vesper based on the information provided in the tables.\n\n### The Godfather Cocktail\nThe Godfather cocktail is described as a duo mixed drink made of Scotch whisky and amaretto. This means it contains two primary ingredients:\n- **Scotch whisky**\n- **Amaretto**\n\n### The Vesper Cocktail\nThe Vesper cocktail, on the other hand, is composed of three distinct ingredients:\n- **Gin**\n- **Vodka**\n- **Kina Lillet**\n\nGiven this information, we can conclude that the Vesper cocktail has more ingredients than the Godfather cocktail. Specifically, the Vesper includes three distinct components, whereas the Godfather is made up of just two.\n\nTherefore, the Vesper cocktail has the most ingredients between the two.",
+        "gate_decision": "Local"
+    },
+    {
+        "question_id": "5a83473055429954d2e2ec7c",
+        "question": "From 1983 to 1995 C. Stephen Lynn was the CEO of a restaurant chain based in what city?",
+        "answer": "From 1983 to 1995, C. Stephen Lynn served as the Chairman and CEO of Sonic Corporation, which is based in Oklahoma City, Oklahoma. According to the provided information, Lynn spent the majority of his career in the fast food industry, holding key positions in several notable restaurant chains. Specifically, he was the CEO of Sonic Corporation from 1983 to 1995, which is headquartered in Oklahoma City. This city is known for being the home of Sonic Drive-In, a well-known American fast-food restaurant chain.",
+        "gate_decision": "Local"
+    },
+    {
+        "question_id": "5a86462b554299211dda2ade",
+        "question": "Based in Span and Portugal, which tasty breakfast snack features sprinkled sugar and a mixture of ground cinnamon?",
+        "answer": "Based on the information provided, the breakfast snack that features sprinkled sugar and a mixture of ground cinnamon, originating from Spain and Portugal, is the **churro**. Churros are a traditional fried-dough pastry, predominantly choux-based, and are a popular snack in these regions. They are often enjoyed for breakfast, particularly when dipped in hot chocolate, champurrado, or other sweet beverages. The churros are typically sprinkled with a mixture of ground cinnamon and sugar, giving them a delightful sweet and spicy flavor.\n\nAdditionally, the **churro** is also popular in other areas influenced by Spanish and Portuguese immigration, such as the Southwestern United States, the Philippines, and Ibero-America. This widespread popularity underscores the significance of churros as a beloved breakfast treat across these regions.",
+        "gate_decision": "Local"
+    },
+    {
+        "question_id": "5ac2b071554299218029daf6",
+        "question": "In the scandal that received the most attention among food safety incidents, what was the food adulterated with?",
+        "answer": "In the 2008 Chinese milk scandal, which received the most attention among food safety incidents, milk and infant formula were adulterated with melamine. This scandal highlighted the severe health issues that can arise from such practices and drew significant international attention. Melamine was used because it can falsely increase the apparent protein content of food products, making it a dangerous additive when present in milk and infant formula. This incident put immense pressure on the Chinese government and regulatory bodies, such as the State Food and Drug Administration of China, to address food safety issues more effectively.",
+        "gate_decision": "Local"
+    },
+    {
+        "question_id": "5a8ecc4b5542995085b37493",
+        "question": "Unlike a certain secretive recipe, Open-source cola is published. Who founded the secret formula?",
+        "answer": "The secret formula for Coca-Cola was founded by Asa Candler in 1891. Asa Candler initiated the secrecy around the Coca-Cola formula as a marketing and intellectual property protection strategy. This decision was made to protect the company's intellectual property and maintain a competitive edge in the soft drink market. The Coca-Cola formula remains a closely guarded secret, known only to a few select employees within the company.\n\nIn contrast, open-source cola is produced according to a published and shareable recipe. This approach allows for the reuse and modification of the recipe, unlike the secretive nature of the Coca-Cola formula. Examples of open-source cola recipes include the OpenCola recipe and the Cube-Cola recipe, both published under the GNU General Public License (GPL). These recipes are openly shared, encouraging collaboration and innovation among those interested in producing open-source cola.",
+        "gate_decision": "Local"
+    },
+    {
+        "question_id": "5a7d28e95542995ed0d16610",
+        "question": "Both Howard University Hospital and George Washington University Hospital located in which place?",
+        "answer": "Both Howard University Hospital and George Washington University Hospital are located in the United States. Specifically:\n\n- **Howard University Hospital** is not mentioned in the provided data, but based on general knowledge, it is located in Washington, D.C. and is affiliated with Howard University.\n\n- **George Washington University Hospital**, according to the data, is located in Washington, D.C. in the United States. It is affiliated with the George Washington University School of Medicine and Health Sciences. The hospital opened on August 23, 2002, with 371 beds in a 400,000 sq. ft. building, equipped with over $45 million of medical equipment and costing over $96 million to construct.\n\nThese hospitals are part of the healthcare landscape in Washington, D.C., serving the local community and providing medical services to patients in the region.",
+        "gate_decision": "Local"
+    },
+    {
+        "question_id": "5ae1cbd5554299422ee99692",
+        "question": "In what city was the Rastelli procedure was developed?",
+        "answer": "Based on the information provided in the given tables, there is no specific mention of the Rastelli procedure or any city associated with its development. The tables primarily cover topics such as the World Bamboo Organization, early computer models, environmental cleanup efforts, and various geographical locations and entities. \n\nTo provide a comprehensive answer, we would need additional information from reliable medical sources or historical records. The Rastelli procedure is a surgical technique used to treat complex congenital heart defects, particularly those involving the aortic valve and the aorta. It was developed by Dr. André C. Rastelli, a French pediatric cardiologist, in the 1950s. However, without explicit references in the provided data, I cannot definitively state the city where the procedure was developed.",
+        "gate_decision": "collaborative"
+    },
+    {
+        "question_id": "5a8a67b555429970aeb702cf",
+        "question": "What disease was Kyle Broflovski infected with by one of his three friends?",
+        "answer": "Based on the information provided in the given tables, there is no mention of a character named Kyle Broflovski or any of his friends being infected with a specific disease. The tables focus on food safety, medical institutions, and health-related topics in China, the Middle East, and other regions, but do not contain any details about the characters from \"South Park\" or their health conditions. Therefore, I cannot provide an answer to the question regarding Kyle Broflovski's infection.",
+        "gate_decision": "collaborative"
+    },
+    {
+        "question_id": "5a803e46554299485f598599",
+        "question": "Though Cherrie Ireland was born in Darwin, the capital city of the Northern Territory of Australia, she was on holiday in which city when she became paralysed by polio?",
+        "answer": "Based on the information provided in the tables, there is no direct mention of Cherrie Ireland or her experience with polio. The tables do not contain any details about her birthplace or her experiences during a holiday. Therefore, I cannot provide the specific city where Cherrie Ireland became paralyzed by polio during her holiday. The tables focus on various topics such as food safety, environmental cleanup, and medical institutions, but do not include information about Cherrie Ireland or her personal experiences.",
+        "gate_decision": "collaborative"
+    },
+    {
+        "question_id": "5ab31cd8554299753aec5945",
+        "question": "Where is the company that released Biricodar baseD?",
+        "answer": "Based on the information provided in the tables, there is no explicit mention of a company named Biricodar or any direct reference to its base or origin. The tables contain details about various organizations and their products, but Biricodar is not among them. \n\nHowever, Biricodar is a medication used to treat liver fluke infections, and it is typically associated with pharmaceutical companies. Given that the tables do not provide this information, we cannot determine the base or headquarters of the company that released Biricodar from the given data.\n\nIf you need information about the company that released Biricodar, you might want to look into pharmaceutical databases or company-specific records.",
+        "gate_decision": "collaborative"
+    }
+]

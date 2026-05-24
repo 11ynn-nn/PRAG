@@ -1,0 +1,162 @@
+[
+    {
+        "id": "5ae356e55542992f92d82297",
+        "question": "Which is a comopany that provides human resources management software, United Continental Holdings or Automatic Data Processing?",
+        "answer": "ADP, LLC.",
+        "project": "CS",
+        "device": "device_0",
+        "route_type": "local"
+    },
+    {
+        "id": "5ae5ff9a5542996de7b71ad2",
+        "question": "When was the American entrepreneur and venture capitalist born who created the Thiel Fellowship?",
+        "answer": "October 11, 1967",
+        "project": "CS",
+        "device": "device_0",
+        "route_type": "local"
+    },
+    {
+        "id": "5ac3b2a75542995ef918c1fe",
+        "question": "Why does Qutebrowser use DuckDuckGo ?",
+        "answer": "emphasizes returning the best results",
+        "project": "CS",
+        "device": "device_0",
+        "route_type": "local"
+    },
+    {
+        "id": "5ab808935542990e739ec7f3",
+        "question": "In which decade was the Ivel Z3 and the Prológica CP-400 developed in?",
+        "answer": "developed by Ivasim in 1980s",
+        "project": "CS",
+        "device": "device_0",
+        "route_type": "local"
+    },
+    {
+        "id": "5ac4a21b5542996feb3fe926",
+        "question": "Which British commputer scientist developed an algorithm for sorting strings in 1959/1960?",
+        "answer": "Tony Hoare",
+        "project": "CS",
+        "device": "device_0",
+        "route_type": "local"
+    },
+    {
+        "id": "5abe96e15542993f32c2a172",
+        "question": "What is the name for the regulatory body of over 25,000 football clubs in Germany?",
+        "answer": "The DFB Sports Court",
+        "project": "Sports",
+        "device": "device_0",
+        "route_type": "local"
+    },
+    {
+        "id": "5ae334345542991a06ce9951",
+        "question": "At which stadium does the team, for which Baltimore's Marching Ravens is the official marching band, play its home games?",
+        "answer": "M&T Bank Stadium",
+        "project": "Sports",
+        "device": "device_0",
+        "route_type": "local"
+    },
+    {
+        "id": "5a8e8fc75542990e94052b57",
+        "question": "in the 2003-04 Wolfsburg signed a starlet from River Plate who plays in what position ?",
+        "answer": "attacking midfielder",
+        "project": "Sports",
+        "device": "device_0",
+        "route_type": "local"
+    },
+    {
+        "id": "5a8ba093554299240d9c203f",
+        "question": "The Colts' first ever draft pick was a halfback who won the Heisman Trophy in what year?",
+        "answer": "1952",
+        "project": "Sports",
+        "device": "device_0",
+        "route_type": "local"
+    },
+    {
+        "id": "5ab285d0554299340b5254fa",
+        "question": "The Acolytes Protection Agency consisted of what wrestler born November 29, 1966",
+        "answer": "John Layfield",
+        "project": "Sports",
+        "device": "device_0",
+        "route_type": "local"
+    },
+    {
+        "id": "5adeca925542995ec70e8f15",
+        "question": "Which cocktail has the most ingredients, the Godfather or the Vesper?",
+        "answer": "The Vesper",
+        "project": "Cooking",
+        "device": "device_0",
+        "route_type": "local"
+    },
+    {
+        "id": "5a83473055429954d2e2ec7c",
+        "question": "From 1983 to 1995 C. Stephen Lynn was the CEO of a restaurant chain based in what city?",
+        "answer": "Oklahoma City",
+        "project": "Cooking",
+        "device": "device_0",
+        "route_type": "local"
+    },
+    {
+        "id": "5a86462b554299211dda2ade",
+        "question": "Based in Span and Portugal, which tasty breakfast snack features sprinkled sugar and a mixture of ground cinnamon?",
+        "answer": "churro",
+        "project": "Cooking",
+        "device": "device_0",
+        "route_type": "local"
+    },
+    {
+        "id": "5ac2b071554299218029daf6",
+        "question": "In the scandal that received the most attention among food safety incidents, what was the food adulterated with?",
+        "answer": "melamine",
+        "project": "Cooking",
+        "device": "device_0",
+        "route_type": "local"
+    },
+    {
+        "id": "5a8ecc4b5542995085b37493",
+        "question": "Unlike a certain secretive recipe, Open-source cola is published. Who founded the secret formula?",
+        "answer": "Asa Candler",
+        "project": "Cooking",
+        "device": "device_0",
+        "route_type": "local"
+    },
+    {
+        "id": "5a7d28e95542995ed0d16610",
+        "question": "Both Howard University Hospital and George Washington University Hospital located in which place?",
+        "answer": "Washington, D.C.",
+        "project": "Medical",
+        "device": "device_0",
+        "route_type": "local"
+    },
+    {
+        "id": "5ae1cbd5554299422ee99692",
+        "question": "In what city was the Rastelli procedure was developed?",
+        "answer": "Rochester, Minnesota",
+        "project": "Medical",
+        "device": "device_1",
+        "route_type": "collaborative-1"
+    },
+    {
+        "id": "5a8a67b555429970aeb702cf",
+        "question": "What disease was Kyle Broflovski infected with by one of his three friends?",
+        "answer": "HIV",
+        "project": "Medical",
+        "device": "device_1",
+        "route_type": "collaborative-1"
+    },
+    {
+        "id": "5a803e46554299485f598599",
+        "question": "Though Cherrie Ireland was born in Darwin, the capital city of the Northern Territory of Australia, she was on holiday in which city when she became paralysed by polio?",
+        "answer": "Melbourne",
+        "project": "Medical",
+        "device": "device_5",
+        "route_type": "collaborative-2"
+    },
+    {
+        "id": "5ab31cd8554299753aec5945",
+        "question": "Where is the company that released Biricodar baseD?",
+        "answer": "Boston, Massachusetts",
+        "project": "Medical",
+        "device": "device_5",
+        "route_type": "collaborative-2"
+    }
+]
